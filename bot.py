@@ -17,6 +17,7 @@ load_dotenv()
 
 import database as db
 from config import BOT_TOKEN, MINI_APP_URL, ADMIN_IDS
+from admin import admin_router
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -25,6 +26,7 @@ bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 router = Router()
 dp.include_router(router)
+dp.include_router(admin_router)
 
 # ===== FSM STATES =====
 class OrderStates(StatesGroup):
