@@ -7,6 +7,12 @@
       "skillPath": "tools/image/ai-image-generation/SKILL.md",
       "computedHash": "82eca9e2eadda210d66433497ff9d31bc1c0ea2dfcd7f0be4710e9b4ef53addd"
     },
+    "firebase-auth-basics": {
+      "source": "firebase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/firebase-auth-basics/SKILL.md",
+      "computedHash": "50ea643133c98c22dc784912625e002b181e227579dd90ae56ec9447ff80f439"
+    },
     "firebase-basics": {
       "source": "firebase/agent-skills",
       "sourceType": "github",
