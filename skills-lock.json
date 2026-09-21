@@ -7,6 +7,12 @@
       "skillPath": "skills/agent-browser/SKILL.md",
       "computedHash": "dd491d53824ad9286ec950aee667098446332429a6d41fe28b4ba11f1959264c"
     },
+    "agent-reach": {
+      "source": "panniantong/agent-reach",
+      "sourceType": "github",
+      "skillPath": "agent_reach/skill/SKILL.md",
+      "computedHash": "ac515588e5e46388039d86e388c03f718735aea33cba53901c900e7cb6be901f"
+    },
     "ai-image-generation": {
       "source": "101-skills/superpowers",
       "sourceType": "github",
