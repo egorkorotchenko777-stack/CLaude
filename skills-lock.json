@@ -247,6 +247,12 @@
       "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
       "computedHash": "e14e276241805c97dbcfe40dcbea1a3035269cc7293cac4b1832dda41a835e60"
     },
+    "turso-db": {
+      "source": "tursodatabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/turso-db/SKILL.md",
+      "computedHash": "d1aa5693c437b9bb848642fe04d613097fe54200c8190f09e7351f7d473c6b83"
+    },
     "vercel-composition-patterns": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
