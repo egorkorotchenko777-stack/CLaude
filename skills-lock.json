@@ -235,6 +235,12 @@
       "skillPath": "skills/postgres/SKILL.md",
       "computedHash": "3d4b3c578b7fcbc61e89b2731a248175e2aa740dc228a106b1a8b29b05ab000f"
     },
+    "query": {
+      "source": "duckdb/duckdb-skills",
+      "sourceType": "github",
+      "skillPath": "skills/query/SKILL.md",
+      "computedHash": "4ef826c2a588b8629aef536a797ea67f31f8f5a04f88acadbc5ba84f6778887d"
+    },
     "supabase": {
       "source": "supabase/agent-skills",
       "sourceType": "github",
